@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import { useAccount, useContractWrite, usePrepareContractWrite , useSigner, useNetwork } from "wagmi";
 const mintAbi = require("../contract/abi.json");
-import Connect from "./Connect";
+import Connect from "./connect";
 
 export default function Mint() {
   const { address, isConnected } = useAccount();

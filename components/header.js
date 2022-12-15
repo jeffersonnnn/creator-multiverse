@@ -1,4 +1,4 @@
-import Connect from "./Connect";
+import Connect from "./connect";
 export default function Header() {
   return (
     <header className="bg-[#1A0E35]">
