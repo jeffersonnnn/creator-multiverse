@@ -28,7 +28,7 @@ export default function Mint() {
         <h1 className="text-center text-2xl my-8  uppercase tracking-wider text-[#7758F2] animate__animated animate__bounce">
           Creator Multiverse Design Hackathon
         </h1>
-        <h2 className="text-center text-2xl my-8">Sign into the app with your wallet, and mint a copy of the competition's NFT to join the discord</h2>
+        <h2 className="text-center text-2xl my-8">Sign into the app with your wallet, and mint a copy of the competition NFT to join the discord</h2>
         <div className="flex justify-center">
           <div>
             <div className="animate__animated animate__rubberBand">
